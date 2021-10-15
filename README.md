@@ -1,7 +1,7 @@
 # Notas
 Este es mi primer programa en Node.
 
-Imprime en consola la tabla de determinado numero, guardandolo en un archivo .txt
+Imprime en consola la tabla de determinado número, guardandolo en un archivo .txt
 
 ```
 Para instalar dependencias:
